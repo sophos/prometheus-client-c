@@ -1,4 +1,4 @@
-# prometheus-client-c -CI
+# prometheus-client-c -CI-CI
 
 [![Build Status](https://github.com/digitalocean/prometheus-client-c/workflows/CI/badge.svg)](https://github.com/digitalocean/prometheus-client-c/actions)
 
